@@ -1,7 +1,7 @@
 blinker==1.2
 embedly==0.4.2
 Fabric==1.4.0
-Flask==0.8
+Flask==1.0
 Flask-Actions==0.6.5
 Flask-WTF==0.5.2
 Jinja2==2.6
