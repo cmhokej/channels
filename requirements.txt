@@ -4,7 +4,7 @@ Fabric==1.4.0
 Flask==0.8
 Flask-Actions==0.6.5
 Flask-WTF==0.5.2
-Jinja2==2.6
+Jinja2==2.11.3
 WTForms==0.6.3
 Werkzeug==0.8.1
 disqus-python==0.4.1
